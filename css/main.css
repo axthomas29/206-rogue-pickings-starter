@@ -222,12 +222,11 @@ footer span {
 			border: none;
 			text-align: left;
 		}
+
 		header nav {
 			width: 50%;
-			padding: 30px 0;
+			padding: 30px 0 30px 0;
 			text-align: right;
-			display: flex;
-			align-items: flex-end;
 		}
 
 		header nav ul {
